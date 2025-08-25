@@ -11,7 +11,8 @@ obj/
 
 # Visual Studio Code
 .vscode/
-
+git 
 # Temporary files
 *.tmp
 *.temp
+/.vs/EmployeeManager
